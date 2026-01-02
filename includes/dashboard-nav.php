@@ -20,7 +20,7 @@ $role = get_user_role();
                 </li>
                 
                 <?php if ($role === 'admin'): ?>
-                    <li class="nav-item">
+                    <li class="nav-item d-flex flex-wrap">
                         <a class="nav-link <?php echo $current_page == 'appointments.php' ? 'active' : ''; ?>" href="/elite-salon/admin/appointments.php">
                             <i class="bi bi-calendar-check"></i> Appointments
                         </a>

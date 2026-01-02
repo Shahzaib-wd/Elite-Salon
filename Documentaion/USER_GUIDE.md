@@ -38,7 +38,7 @@ Elite Salon is a fully functional, ultra-premium salon management system designe
 ### First-Time Visitors
 
 1. **Visit the Homepage**
-   - Navigate to: `http://yourdomain.com/elite-salon/`
+   - Navigate to: `http://localhost:80/elite-salon/`
    - Experience the cinematic 100vh hero section
    - Scroll to explore services, about, and contact sections
 

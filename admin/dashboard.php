@@ -108,7 +108,7 @@ require_once '../includes/dashboard-nav.php';
         <div class="row mt-4">
             <div class="col-12">
                 <div class="content-card">
-                    <div class="d-flex justify-content-between align-items-center mb-3">
+                    <div class="d-flex justify-content-center align-items-center flex-wrap mb-3">
                         <h4><i class="bi bi-calendar-check"></i> Recent Appointments</h4>
                         <a href="/elite-salon/admin/appointments.php" class="btn btn-primary btn-sm">View All</a>
                     </div>
